@@ -1,0 +1,16 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#div1 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.styles1,
+.styles2,
+.styles3 {
+  display: flex;
+  justify-content: space-evenly;
+}
